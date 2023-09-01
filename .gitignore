@@ -1,0 +1,38 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore the virtual environment directory (if you're using virtualenv or venv)
+venv/
+env/
+
+# Ignore log files and other generated files
+*.log
+*.log.*
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE-specific files and directories (e.g., for PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Ignore the data file where you're storing passwords
+data.txt
+
+# Ignore compiled Python files and build artifacts (you can add more here as needed)
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore any user-specific or environment-specific files
+*.env
+*.env.*
