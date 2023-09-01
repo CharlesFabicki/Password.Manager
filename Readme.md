@@ -30,9 +30,6 @@ This is a simple password manager and generator application built using the Tkin
 5. Click the "Clear All Data" button to clear all input fields.
 6. Click the "Exit" button to close the application.
 
-## Screenshots
-
-![App Screenshot](screenshot.png)
 
 ## License
 
