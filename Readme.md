@@ -2,6 +2,13 @@
 
 This is a simple password manager and generator application built using the Tkinter library in Python. It allows you to generate strong passwords and store them along with website and email/username details.
 
+## Screenshot
+
+HERE IS EXAMPLE HOW IT WORKS
+![Password](https://github.com/CharlesFabicki/Password.Manager/assets/103677730/d1fec652-a67a-43a8-8bd7-a3476b3fff0f)
+
+IT IS NOT MY PASSWORD :)
+
 ## Features
 
 - Generate strong passwords with random combinations of letters, numbers, and symbols.
